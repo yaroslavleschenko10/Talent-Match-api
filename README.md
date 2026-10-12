@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # TalentMatch API
 
 NestJS + TypeORM + PostgreSQL backend for the TalentMatch platform.
@@ -130,3 +131,6 @@ src/
 - Use migrations: `npm run migration:generate` / `migration:run`
 - Change `JWT_SECRET` to a long random string
 - Put PostgreSQL behind a private network
+=======
+# Talent-Match-api
+>>>>>>> 6842bdd2511f06ecd23934554f03692400cf3415
